@@ -1,0 +1,14 @@
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.csproj.AssemblyReference.cache
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.AssemblyInfoInputs.cache
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.AssemblyInfo.cs
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\bin\Debug\netcoreapp3.1\Crypto.exe
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\bin\Debug\netcoreapp3.1\Crypto.deps.json
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\bin\Debug\netcoreapp3.1\Crypto.runtimeconfig.json
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\bin\Debug\netcoreapp3.1\Crypto.runtimeconfig.dev.json
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\bin\Debug\netcoreapp3.1\Crypto.dll
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\bin\Debug\netcoreapp3.1\Crypto.pdb
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.dll
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.pdb
+C:\Users\BRIANPHIL\Downloads\Compressed\Crypto\Crypto\Crypto\obj\Debug\netcoreapp3.1\Crypto.genruntimeconfig.cache
