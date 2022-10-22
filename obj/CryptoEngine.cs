@@ -1,9 +1,9 @@
 ﻿
 
-//===== SkyTOP Encryption Engine ========//
+//===== File Encryption Engine ========//
 
-/* This library contains all the methods for encryption and decryption of SkyTOP files
- * Author - SkyTOP Technologies LTD
+/* This library contains all the methods for encryption and decryption of any files
+ * Author - Brian Philemon
  * Version 2.0
  * Date: 05 Jan 2019
  * Publisher: Brian Philemon
